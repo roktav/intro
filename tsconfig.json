@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es5",        // Menentukan versi ECMAScript
+    "module": "commonjs",   // Menentukan sistem modul
+    "outDir": "./dist",     // Direktori keluaran
+    "rootDir": "./src",     // Direktori sumber
+    "strict": true,         // Mengaktifkan pemeriksaan ketat
+    "esModuleInterop": true // Mendukung impor modul ES
+  },
+  "include": ["src/**/*"]
+}

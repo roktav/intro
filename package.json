@@ -1,0 +1,19 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "This is the first assignment in Sanbercode NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roktav/intro.git"
+  },
+  "author": "Oktav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roktav/intro/issues"
+  },
+  "homepage": "https://github.com/roktav/intro#readme"
+}
